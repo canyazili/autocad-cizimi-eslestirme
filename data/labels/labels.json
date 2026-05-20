@@ -26,7 +26,22 @@
     "BEST8018.jpg",
     "BEST8019.jpeg",
     "BEST8020.jpg",
-    "BEST8021.jpg"
+    "BEST8021.jpg",
+    "GZZ1001BEST-1.jpeg",
+    "GZZ1001BEST-2.jpg",
+    "GZZ1001FUAR-70x183.jpeg",
+    "GZZ1003FUARHETAL3.jpeg",
+    "GZZ1003FUARPAR.jpeg",
+    "GZZ1004HALASKAR.jpeg",
+    "GZZ1006-2.jpg",
+    "GZZ1007-2.jpg",
+    "GZZ1024-30.jpeg",
+    "GZZ1024-50.jpeg",
+    "GZZ1045FLOTA-2.jpeg",
+    "GZZ1045FUAR2.jpeg",
+    "GZZ1045FUAR3.jpeg",
+    "GZZ1046DELTA.jpeg",
+    "GZZ1046DELTA3-1.jpeg"
   ],
   "eslesme": {
     "1008AKEL-1.jpeg": [
@@ -148,7 +163,150 @@
       "gzz1001fuar-105x230.png",
       "gzz1001fuar-105x230s.png",
       "gzz1001fuar-115.png",
-      "gzz1001fuar-120s.png"
+      "gzz1001fuar-115s.png",
+      "gzz1001fuar-120.png",
+      "gzz1001fuar-120s.png",
+      "gzz1001fuar.png",
+      "gzz1001fuarhetal-100.png",
+      "gzz1001fuarhetal-100s.png",
+      "gzz1001fuarhetal-103.png",
+      "gzz1001fuarhetal-103S.png",
+      "gzz1001fuarhetal-97.png",
+      "gzz1001fuarhetal-97s.png",
+      "gzz1001fuarhetal-97szzz.png",
+      "gzz1001fuarhetal-97ters.png",
+      "gzz1001fuarhetal-97terss.png",
+      "gzz1001fuarhetal-97zzz.png",
+      "gzz1001fuarhetal.png",
+      "gzz1001fuarhetals.png",
+      "gzz1001fuars.png"
+    ],
+    "GZZ1001BEST-2.jpg": [
+      "gzz1001best.png",
+      "gzz1001bests.png",
+      "gzz1001fuar-105x230.png",
+      "gzz1001fuar-105x230s.png",
+      "gzz1001fuar-115.png",
+      "gzz1001fuar-115s.png",
+      "gzz1001fuar-120.png",
+      "gzz1001fuar.png",
+      "gzz1001fuarhetal-100.png",
+      "gzz1001fuarhetal-100s.png",
+      "gzz1001fuarhetal-103.png",
+      "gzz1001fuarhetal-103S.png",
+      "gzz1001fuarhetal-97.png",
+      "gzz1001fuarhetal-97s.png",
+      "gzz1001fuarhetal-97szzz.png",
+      "gzz1001fuarhetal-97ters.png",
+      "gzz1001fuarhetal-97terss.png",
+      "gzz1001fuarhetal-97zzz.png",
+      "gzz1001fuarhetal.png",
+      "gzz1001fuarhetals.png",
+      "gzz1001fuars.png"
+    ],
+    "GZZ1001FUAR-70x183.jpeg": [
+      "gzz1001best.png",
+      "gzz1001bests.png",
+      "gzz1001fuar-103Z.png",
+      "gzz1001fuar-103Zs.png",
+      "gzz1001fuar-105x230.png",
+      "gzz1001fuar-105x230s.png",
+      "gzz1001fuar-115.png",
+      "gzz1001fuar-115s.png",
+      "gzz1001fuar-120.png",
+      "gzz1001fuar-120s.png",
+      "gzz1001fuar.png",
+      "gzz1001fuarhetal-100.png",
+      "gzz1001fuarhetal-100s.png",
+      "gzz1001fuarhetal-103.png",
+      "gzz1001fuarhetal-103S.png",
+      "gzz1001fuarhetal-97.png",
+      "gzz1001fuarhetal-97s.png",
+      "gzz1001fuarhetal-97szzz.png",
+      "gzz1001fuarhetal-97ters.png",
+      "gzz1001fuarhetal-97terss.png",
+      "gzz1001fuarhetal-97zzz.png",
+      "gzz1001fuarhetal.png",
+      "gzz1001fuarhetals.png",
+      "gzz1001fuars.png"
+    ],
+    "GZZ1003FUARHETAL3.jpeg": [
+      "GZZ1003.png",
+      "GZZ1003FUAR.png",
+      "GZZ1003FUARBETA-97.png",
+      "GZZ1003FUARBETA.png",
+      "gzz1003glosser.png"
+    ],
+    "GZZ1003FUARPAR.jpeg": [
+      "GZZ1003.png",
+      "GZZ1003FUAR.png",
+      "GZZ1003FUARBETA.png",
+      "gzz1003fuar-100.png",
+      "gzz1003glosser.png"
+    ],
+    "GZZ1004HALASKAR.jpeg": [
+      "gzz1004halaskar-0.png",
+      "gzz1004halaskar.png"
+    ],
+    "GZZ1006-2.jpg": [
+      "gzz1006-2-93.png",
+      "gzz1006-2-93s.png",
+      "gzz1006-2.png",
+      "gzz1006-2s.png"
+    ],
+    "GZZ1007-2.jpg": [
+      "gzz1007-100.png",
+      "gzz1007-100s.png",
+      "gzz1007-225.png",
+      "gzz1007-225par.png",
+      "gzz1007-225pars.png",
+      "gzz1007-225s.png",
+      "gzz1007.png",
+      "gzz1007lale.png",
+      "gzz1007lales.png",
+      "gzz1007s.png"
+    ],
+    "GZZ1024-30.jpeg": [
+      "gzz1024-100hetal.png",
+      "gzz1024hetal.png"
+    ],
+    "GZZ1024-50.jpeg": [
+      "gzz1024-100hetal.png",
+      "gzz1024hetal.png"
+    ],
+    "GZZ1045FLOTA-2.jpeg": [
+      "gzz1045fuar.png",
+      "gzz1045fuars.png"
+    ],
+    "GZZ1045FUAR2.jpeg": [
+      "gzz1045fuar2.png",
+      "gzz1045fuar2s.png",
+      "gzz1045fuar3.png",
+      "gzz1045fuar3s.png"
+    ],
+    "GZZ1045FUAR3.jpeg": [
+      "gzz1045fuar2.png",
+      "gzz1045fuar2s.png",
+      "gzz1045fuar3.png",
+      "gzz1045fuar3s.png"
+    ],
+    "GZZ1046DELTA.jpeg": [
+      "gzz1046delta-240.png",
+      "gzz1046delta-250.png",
+      "gzz1046delta.png",
+      "gzz1046delta3-4.png",
+      "gzz1046delta9-220.png",
+      "gzz1046delta9.png",
+      "gzz1046deltaX.png",
+      "gzz1046deltahlk.png"
+    ],
+    "GZZ1046DELTA3-1.jpeg": [
+      "gzz1046delta3-2.png",
+      "gzz1046delta3-260.png",
+      "gzz1046delta3-3-245.png",
+      "gzz1046delta3-3.png",
+      "gzz1046delta3-4.png",
+      "gzz1046delta3.png"
     ]
   }
 }
