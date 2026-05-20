@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# Model ağırlıkları + embeddings (büyük dosyalar, Git LFS dışı tutulur)
+models/*.pt
+models/*.npz
+models/*.npz.*
+finetune_output/*.pt
+
+# Ham veri (Git'e koymuyoruz; dış depoya alınmalı)
+data/cad_dwg/
+data/cad_dxf/
+data/cad_png/
+data/cad_png_edge/
+data/tüm modeller/
+data/photos/
+data/photos_edge/
+
+# Etiket yedekleri (canlı dosya commitlenebilir, yedek değil)
+data/labels/*.backup
+
+# Yedek / geçici
+*.bak
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+.claude/settings.local.json

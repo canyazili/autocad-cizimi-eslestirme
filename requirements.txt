@@ -1,0 +1,12 @@
+# Çekirdek
+torch>=2.1
+torchvision>=0.16
+open-clip-torch>=2.24
+Pillow>=10.0
+numpy>=1.24
+opencv-python>=4.8
+
+# UI (labeler + müşteri uygulaması)
+streamlit>=1.30
+
+# (Opsiyonel ileride: faiss-cpu, scikit-learn, easyocr)
